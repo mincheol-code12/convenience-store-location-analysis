@@ -126,5 +126,5 @@
 
 ## 🔗 관련 링크
 
-- 📓 [프로젝트 노션 페이지](노션 링크)
-- 📊 [발표자료 PDF](대회 발표자료.pdf)
+- 📓 [프로젝트 노션 페이지](https://www.notion.so/316e8dab590580e18cadc6a6c0ddcf50)
+- 📊 [발표자료 PDF](https://github.com/mincheol-code12/convenience-store-location-analysis/blob/main/%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
